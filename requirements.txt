@@ -1,0 +1,5 @@
+click==7.0
+requests==2.22.0
+git+git://github.com/ynop/spoteno.git@7700d53#egg=spoteno
+git+git://github.com/ynop/pyphony.git@b000bd0#egg=pyphony
+git+git://github.com/sequitur-g2p/sequitur-g2p.git@master#egg=sequitur
